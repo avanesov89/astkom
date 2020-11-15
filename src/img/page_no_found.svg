@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="450" viewBox="0 0 450 450">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_133" data-name="Прямоугольник 133" width="450" height="450" transform="translate(224 408)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.509" y1="0.997" x2="0.509" y2="-0.003" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.813" y1="0.841" x2="0.813" y2="-0.159" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1.78" y1="0.849" x2="1.78" y2="-0.151" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0.5" y1="0.999" x2="0.5" y2="-0.001" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Группа_масок_28" data-name="Группа масок 28" transform="translate(-224 -408)" clip-path="url(#clip-path)">
+    <g id="undraw_no_data_qbuo" transform="translate(224 418.798)">
+      <path id="Контур_123" data-name="Контур 123" d="M1.514,1.077H241.293v331.3H1.514Z" transform="translate(36.219 73.603) rotate(-12.11)" fill="#e0e0e0"/>
+      <g id="Сгруппировать_212" data-name="Сгруппировать 212" transform="translate(41.416 30.362)" opacity="0.5">
+        <path id="Контур_124" data-name="Контур 124" d="M1.462,1.041H233.138v320.1H1.462Z" transform="translate(0 47.892) rotate(-12.11)" fill="url(#linear-gradient)"/>
+      </g>
+      <path id="Контур_125" data-name="Контур 125" d="M1.43,1.014H227.207V314.041H1.43Z" transform="translate(44.828 79.959) rotate(-12.11)" fill="#fafafa"/>
+      <path id="Контур_126" data-name="Контур 126" d="M.126.5H112.131V27.632H.126Z" transform="translate(99.273 54.923) rotate(-12.11)" fill="url(#linear-gradient-2)"/>
+      <path id="Контур_116" data-name="Контур 116" d="M279.628,55.987a16.032,16.032,0,1,0,18.655,12.389A15.845,15.845,0,0,0,279.628,55.987Zm5.306,24.745a9.251,9.251,0,1,1,6.891-10.973,9.141,9.141,0,0,1-6.891,10.973Z" transform="translate(-130.934 -38.259)" fill="url(#linear-gradient-3)"/>
+      <path id="Контур_127" data-name="Контур 127" d="M.12.49H109.766V26.426H.12Z" transform="translate(100.19 53.547) rotate(-12.11)" fill="#1aa8b3"/>
+      <path id="Контур_117" data-name="Контур 117" d="M279.651,55.987a15.324,15.324,0,1,0,18.2,11.769,15.324,15.324,0,0,0-18.2-11.769Zm5.07,23.648a8.845,8.845,0,1,1,6.793-10.5,8.845,8.845,0,0,1-6.793,10.5Z" transform="translate(-130.957 -38.259)" fill="#1aa8b3"/>
+      <rect id="Прямоугольник_139" data-name="Прямоугольник 139" width="239.778" height="331.296" transform="translate(141.496 64.145)" fill="#e0e0e0"/>
+      <g id="Сгруппировать_213" data-name="Сгруппировать 213" transform="translate(145.55 69.747)" opacity="0.5">
+        <rect id="Прямоугольник_140" data-name="Прямоугольник 140" width="231.675" height="320.098" fill="url(#linear-gradient-4)"/>
+      </g>
+      <rect id="Прямоугольник_141" data-name="Прямоугольник 141" width="225.776" height="313.025" transform="translate(148.497 72.106)" fill="#fff"/>
+      <rect id="Прямоугольник_142" data-name="Прямоугольник 142" width="112.005" height="27.132" transform="translate(205.679 58.532)" fill="url(#linear-gradient-4)"/>
+      <path id="Контур_118" data-name="Контур 118" d="M404.8,71.936a16.036,16.036,0,1,0,15.659,16.032A15.849,15.849,0,0,0,404.8,71.936Zm0,25.283a9.251,9.251,0,1,1,9.031-9.251,9.141,9.141,0,0,1-9.031,9.207Z" transform="translate(-143.117 -39.889)" fill="url(#linear-gradient-6)"/>
+      <rect id="Прямоугольник_143" data-name="Прямоугольник 143" width="109.646" height="25.935" transform="translate(206.858 57.369)" fill="#1aa8b3"/>
+      <path id="Контур_119" data-name="Контур 119" d="M404.835,71.936a15.324,15.324,0,1,0,15.324,15.324,15.324,15.324,0,0,0-15.324-15.324Zm0,24.169a8.863,8.863,0,1,0,0-.027Z" transform="translate(-143.154 -39.889)" fill="#1aa8b3"/>
+      <g id="Сгруппировать_214" data-name="Сгруппировать 214" transform="translate(3.561 404.395)" opacity="0.5">
+        <rect id="Прямоугольник_144" data-name="Прямоугольник 144" width="2.063" height="11.703" transform="translate(4.817)" fill="#47e6b1"/>
+        <rect id="Прямоугольник_145" data-name="Прямоугольник 145" width="2.063" height="11.703" transform="translate(11.703 4.823) rotate(90)" fill="#47e6b1"/>
+      </g>
+      <g id="Сгруппировать_215" data-name="Сгруппировать 215" transform="translate(242.9)" opacity="0.5">
+        <rect id="Прямоугольник_146" data-name="Прямоугольник 146" width="2.063" height="11.703" transform="translate(4.817)" fill="#47e6b1"/>
+        <rect id="Прямоугольник_147" data-name="Прямоугольник 147" width="2.063" height="11.703" transform="translate(11.703 4.817) rotate(90)" fill="#47e6b1"/>
+      </g>
+      <path id="Контур_120" data-name="Контур 120" d="M584.915,506.784a2.529,2.529,0,0,1-1.41-3.056,1.221,1.221,0,0,0,.055-.28h0a1.268,1.268,0,0,0-2.277-.84h0a1.221,1.221,0,0,0-.143.247,2.529,2.529,0,0,1-3.056,1.41,1.212,1.212,0,0,0-.28-.055h0a1.267,1.267,0,0,0-.839,2.277h0a1.222,1.222,0,0,0,.247.143,2.53,2.53,0,0,1,1.41,3.056,1.212,1.212,0,0,0-.055.28h0a1.267,1.267,0,0,0,2.277.839h0a1.217,1.217,0,0,0,.143-.247,2.529,2.529,0,0,1,3.056-1.41,1.218,1.218,0,0,0,.28.055h0a1.267,1.267,0,0,0,.839-2.277h0A1.221,1.221,0,0,0,584.915,506.784Z" transform="translate(-161.849 -82.905)" fill="#4d8af0" opacity="0.5"/>
+      <path id="Контур_121" data-name="Контур 121" d="M198.16,381.773a2.529,2.529,0,0,1-1.41-3.056,1.216,1.216,0,0,0,.055-.28h0a1.267,1.267,0,0,0-2.277-.839h0a1.222,1.222,0,0,0-.143.247,2.529,2.529,0,0,1-3.056,1.41,1.211,1.211,0,0,0-.28-.055h0a1.267,1.267,0,0,0-.839,2.277h0a1.22,1.22,0,0,0,.247.143,2.529,2.529,0,0,1,1.41,3.056,1.219,1.219,0,0,0-.055.28h0a1.267,1.267,0,0,0,2.277.839h0a1.222,1.222,0,0,0,.143-.247,2.53,2.53,0,0,1,3.056-1.41,1.215,1.215,0,0,0,.28.055h0a1.267,1.267,0,0,0,.839-2.277h0a1.217,1.217,0,0,0-.247-.143Z" transform="translate(-123.173 -70.404)" fill="#fdd835" opacity="0.5"/>
+      <path id="Контур_122" data-name="Контур 122" d="M520.294,77.372a2.529,2.529,0,0,1-1.41-3.056,1.211,1.211,0,0,0,.055-.28h0a1.267,1.267,0,0,0-2.277-.839h0a1.22,1.22,0,0,0-.143.247,2.529,2.529,0,0,1-3.056,1.41,1.219,1.219,0,0,0-.28-.055h0a1.267,1.267,0,0,0-.84,2.277h0a1.217,1.217,0,0,0,.247.143A2.529,2.529,0,0,1,514,80.275a1.228,1.228,0,0,0-.055.28h0a1.267,1.267,0,0,0,2.277.839h0a1.212,1.212,0,0,0,.143-.247,2.529,2.529,0,0,1,3.056-1.41,1.218,1.218,0,0,0,.28.055h0a1.267,1.267,0,0,0,.839-2.277h0A1.218,1.218,0,0,0,520.294,77.372Z" transform="translate(-155.387 -39.964)" fill="#fdd835" opacity="0.5"/>
+      <circle id="Эллипс_3" data-name="Эллипс 3" cx="4.131" cy="4.131" r="4.131" transform="translate(441.737 168.408)" fill="#f55f44" opacity="0.5"/>
+      <circle id="Эллипс_4" data-name="Эллипс 4" cx="4.131" cy="4.131" r="4.131" transform="translate(122.462 405.531)" fill="#f55f44" opacity="0.5"/>
+      <circle id="Эллипс_5" data-name="Эллипс 5" cx="4.131" cy="4.131" r="4.131" transform="translate(399.309 257.709)" fill="#f55f44" opacity="0.5"/>
+      <circle id="Эллипс_6" data-name="Эллипс 6" cx="4.131" cy="4.131" r="4.131" transform="translate(43.679 48.733)" fill="#4d8af0" opacity="0.5"/>
+      <circle id="Эллипс_7" data-name="Эллипс 7" cx="4.131" cy="4.131" r="4.131" transform="translate(0 161.434)" fill="#47e6b1" opacity="0.5"/>
+    </g>
+  </g>
+</svg>
